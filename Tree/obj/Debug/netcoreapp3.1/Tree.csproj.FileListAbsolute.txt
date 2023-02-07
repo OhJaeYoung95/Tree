@@ -1,0 +1,14 @@
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\Tree\bin\Debug\netcoreapp3.1\Tree.exe
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\Tree\bin\Debug\netcoreapp3.1\Tree.deps.json
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\Tree\bin\Debug\netcoreapp3.1\Tree.runtimeconfig.json
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\Tree\bin\Debug\netcoreapp3.1\Tree.runtimeconfig.dev.json
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\Tree\bin\Debug\netcoreapp3.1\Tree.dll
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\Tree\bin\Debug\netcoreapp3.1\Tree.pdb
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\Tree\obj\Debug\netcoreapp3.1\Tree.csproj.AssemblyReference.cache
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\Tree\obj\Debug\netcoreapp3.1\Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\Tree\obj\Debug\netcoreapp3.1\Tree.AssemblyInfoInputs.cache
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\Tree\obj\Debug\netcoreapp3.1\Tree.AssemblyInfo.cs
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\Tree\obj\Debug\netcoreapp3.1\Tree.csproj.CoreCompileInputs.cache
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\Tree\obj\Debug\netcoreapp3.1\Tree.dll
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\Tree\obj\Debug\netcoreapp3.1\Tree.pdb
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\Tree\obj\Debug\netcoreapp3.1\Tree.genruntimeconfig.cache
