@@ -1,0 +1,14 @@
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.exe
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.deps.json
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.runtimeconfig.json
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.runtimeconfig.dev.json
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.dll
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.pdb
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.csproj.AssemblyReference.cache
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.AssemblyInfoInputs.cache
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.AssemblyInfo.cs
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.csproj.CoreCompileInputs.cache
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.dll
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.pdb
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.genruntimeconfig.cache
