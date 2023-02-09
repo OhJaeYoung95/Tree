@@ -1,0 +1,14 @@
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\AStar\bin\Debug\netcoreapp3.1\AStar.exe
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\AStar\bin\Debug\netcoreapp3.1\AStar.deps.json
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\AStar\bin\Debug\netcoreapp3.1\AStar.runtimeconfig.json
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\AStar\bin\Debug\netcoreapp3.1\AStar.runtimeconfig.dev.json
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\AStar\bin\Debug\netcoreapp3.1\AStar.dll
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\AStar\bin\Debug\netcoreapp3.1\AStar.pdb
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\AStar\obj\Debug\netcoreapp3.1\AStar.csproj.AssemblyReference.cache
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\AStar\obj\Debug\netcoreapp3.1\AStar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\AStar\obj\Debug\netcoreapp3.1\AStar.AssemblyInfoInputs.cache
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\AStar\obj\Debug\netcoreapp3.1\AStar.AssemblyInfo.cs
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\AStar\obj\Debug\netcoreapp3.1\AStar.csproj.CoreCompileInputs.cache
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\AStar\obj\Debug\netcoreapp3.1\AStar.dll
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\AStar\obj\Debug\netcoreapp3.1\AStar.pdb
+C:\Users\ostyo\OneDrive\바탕 화면\C#_Rookiss\Tree\AStar\obj\Debug\netcoreapp3.1\AStar.genruntimeconfig.cache
